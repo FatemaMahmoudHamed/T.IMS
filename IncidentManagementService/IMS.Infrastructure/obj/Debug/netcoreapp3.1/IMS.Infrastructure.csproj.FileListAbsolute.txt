@@ -1,0 +1,15 @@
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\obj\Debug\netcoreapp3.1\IMS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\obj\Debug\netcoreapp3.1\IMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\obj\Debug\netcoreapp3.1\IMS.Infrastructure.AssemblyInfo.cs
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\obj\Debug\netcoreapp3.1\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\bin\Debug\netcoreapp3.1\IMS.Infrastructure.deps.json
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\bin\Debug\netcoreapp3.1\IMS.Infrastructure.runtimeconfig.json
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\bin\Debug\netcoreapp3.1\IMS.Infrastructure.runtimeconfig.dev.json
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\bin\Debug\netcoreapp3.1\IMS.Infrastructure.dll
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\bin\Debug\netcoreapp3.1\IMS.Infrastructure.pdb
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\bin\Debug\netcoreapp3.1\IMS.Core.dll
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\bin\Debug\netcoreapp3.1\IMS.Core.pdb
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\obj\Debug\netcoreapp3.1\IMS.Infrastructure.csproj.CopyComplete
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\obj\Debug\netcoreapp3.1\IMS.Infrastructure.dll
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\obj\Debug\netcoreapp3.1\IMS.Infrastructure.pdb
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Infrastructure\obj\Debug\netcoreapp3.1\IMS.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\bin\Debug\netcoreapp3.1\IMS.Services.deps.json
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\bin\Debug\netcoreapp3.1\IMS.Services.dll
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\bin\Debug\netcoreapp3.1\IMS.Services.pdb
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\bin\Debug\netcoreapp3.1\IMS.Core.dll
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\bin\Debug\netcoreapp3.1\IMS.Infrastructure.dll
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\bin\Debug\netcoreapp3.1\IMS.Core.pdb
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\bin\Debug\netcoreapp3.1\IMS.Infrastructure.pdb
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\obj\Debug\netcoreapp3.1\IMS.Services.csprojAssemblyReference.cache
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\obj\Debug\netcoreapp3.1\IMS.Services.AssemblyInfoInputs.cache
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\obj\Debug\netcoreapp3.1\IMS.Services.AssemblyInfo.cs
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\obj\Debug\netcoreapp3.1\IMS.Services.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\obj\Debug\netcoreapp3.1\IMS.Services.csproj.CopyComplete
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\obj\Debug\netcoreapp3.1\IMS.Services.dll
+C:\Users\fatma\OneDrive\Desktop\Task\IncidentManagementService\IMS.Services\obj\Debug\netcoreapp3.1\IMS.Services.pdb
